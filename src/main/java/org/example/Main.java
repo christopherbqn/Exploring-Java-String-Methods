@@ -31,6 +31,7 @@ public class Main {
         String upper = mixedCase.toUpperCase();
         String lower = mixedCase.toLowerCase();
         System.out.println("Uppercase: " + upper);
+        System.out.println("Lowercase: " + lower);
 
         // EXERCISE 5
         System.out.println("\n--- 5️⃣ Exercise 5---");
